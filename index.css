@@ -1,4 +1,8 @@
 
+@font-face {
+    font-family:cursedTimer ;
+    src: url("CursedTimerULiL.woff");
+}
 
 
 
@@ -20,6 +24,8 @@ body{
     text-align: start;
     padding: 20px;
     line-height: 6vh;
+    font-family:cursedTimer ;
+	
     
     
 }
